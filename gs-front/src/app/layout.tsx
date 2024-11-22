@@ -12,17 +12,17 @@ export const metadata: Metadata = {
   description: "Solução para um mundo sustentável criada por TechVerde",
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout({children,}: Readonly<{children: React.ReactNode;}>) {
+
+  
+
   return (
     <html lang="pt-br">
-      <body
-      >
-        {children}
-      </body>
+      <body>
+        <Cabecalho />
+          {children}
+        <Rodape />
+       </body>
     </html>
   );
 }
