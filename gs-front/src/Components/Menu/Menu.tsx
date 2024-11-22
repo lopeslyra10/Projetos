@@ -8,6 +8,7 @@ export default function Menu() {
                 <li> <Link href="/integrantes">Integrantes</Link> </li>
                 <li> <Link href="/funcoes/dicas">Dicas</Link> </li>
                 <li> <Link href="/funcoes/calculadora">Calculadora</Link> </li>
+                <li> <Link href="/funcoes/economia">Economia</Link> </li>
             </ul>
         </nav>
     )
