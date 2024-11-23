@@ -12,3 +12,5 @@ dispositivos de casa usuário com o sistema “Modo Economia de Energia”.
 
 link do repositório:
 https://github.com/lopeslyra10/Projetos.git
+link do vercel: https://projetos-8cbf.vercel.app/
+link video do YouTube: https://youtu.be/pCtW5u2cpmY?si=aB_ujInciS-0kNWs
